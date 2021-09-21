@@ -13,12 +13,12 @@ body {
   left: 0;
 }
 
-top {
+#top {
   font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
-width: 600px;
+width: 750px;
 object-fit: contain;
 }
 
