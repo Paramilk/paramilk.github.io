@@ -27,6 +27,6 @@ object-fit: contain;
  color: #FF0000; 
 }
 
-signup {
+.signup {
    position:absolute; top:0; right:0;
 }
